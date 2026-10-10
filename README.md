@@ -1,4 +1,4 @@
-# Portfólio acadêmico — Cayo Luiz
+# Portfólio acadêmico Cayo Luiz
 
 Repositório que reúne as atividades das unidades curriculares e o material do Projeto Integrador (PI) do curso de Análise e Desenvolvimento de Sistemas, turma TADS039M, Faculdade Senac Pernambuco.
 
